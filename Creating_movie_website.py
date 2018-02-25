@@ -6,4 +6,6 @@ avatar = Movie_Class.Movie("Avatar","Avatar","https://www.youtube.com/watch?v=5P
 
 Movie_list= [toystory,avatar]
 
-fresh_tomatoes.open_movies_page(Movie_list)
+print(avatar.Valid_Ratings)
+print(avatar.__doc__)
+#fresh_tomatoes.open_movies_page(Movie_list)
